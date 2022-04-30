@@ -1,12 +1,8 @@
 #Color Customization
 #highlight: "#54bfff"
-white: "#FF0000"
+#white: "#FF0000"
 #black: "#000"
 
-title: {
-    font-size: 10px;
-    font-family: 'Open Sans', sans-serif;
-}
 
 #Image Customization
 header-image: "../img/DSC00260vertical.jpg"
