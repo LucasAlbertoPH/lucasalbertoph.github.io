@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Bienvenido/a!
     text: :)
-    button: Más
+    button: Déjame ver!
     buttonlink: "#services"
 
   services:
